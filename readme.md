@@ -1,4 +1,6 @@
-﻿![](https://javascript30.com/images/JS3-social-share.png)
+This Repo is my code for what I am making with the JavaScript 30 challenge explained below.
+
+![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
 
